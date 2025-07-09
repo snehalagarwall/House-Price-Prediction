@@ -1,0 +1,2 @@
+Root Mean Squared Error:0.5073561548750558
+Predicted Sample House Price:[0.23382947]
